@@ -1,0 +1,38 @@
+section {
+    padding-top: 7px;
+    padding-bottom: 1px;
+    line-height: 20px;
+    padding-left: 50px;     
+}
+
+.ramka {
+    border: 3px solid green;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #fa6c07;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    line-height: 5px;
+}
+
+.fon1 {
+    background-color: #f5de0f;
+}
+
+.fon2 {
+    background-color: #2df50f;
+}
+
+.fon3 {
+    background-color: #0f95f5;
+}
+
+.fon4 {
+    background-color: #f50fb4;
+}
